@@ -1,0 +1,3 @@
+User-agent: * 
+Disallow:
+Sitemap: https://www.blue-line-design.com/sitemap.xml
